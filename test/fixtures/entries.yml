@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  meal_type: 'Breakfast'
+  calories: 500
+  proteins: 20
+  carbs: 100
+  fats: 10
+
+two:
+  meal_type: 'Lunch'
+  calories: 800
+  proteins: 25
+  carbs: 150
+  fats: 15
